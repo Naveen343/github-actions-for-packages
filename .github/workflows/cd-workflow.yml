@@ -65,5 +65,3 @@ jobs:
         registry: docker.pkg.github.com
         repository: Naveen343/github-actions-for-packages/tic-tac-toe
         tag_with_sha: true
-        
- 
